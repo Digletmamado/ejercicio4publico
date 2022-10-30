@@ -1,4 +1,4 @@
-# ejercicio4publico
+# ejercicio4
 <a name="top"></a>
 **Índice**   
 1. [Diferentes niveles de encabezado](#id1)
